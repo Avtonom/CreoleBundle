@@ -1,9 +1,9 @@
 {
-    "name": "Avtonom/CreoleBundle",
+    "name": "avtonom/creole-bundle",
     "type": "symfony-bundle",
     "description": "A bundle for Symfony 2 PHP Framework with support for Creole 1.0 Wiki markup language.",
     "keywords": ["creole", "wiki", "parser", "wikitext", "markup"],
-    "homepage": "https://github.com/avtonom/creole-bundle",
+    "homepage": "https://github.com/Avtonom/CreoleBundle",
     "license": "GNU GPL v3",
     "authors": [
         {
