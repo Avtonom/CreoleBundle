@@ -12,7 +12,7 @@
         }
     ],
     "autoload": {
-        "psr-4": { "Avtonom\\CreoleBundle\\": "" }
+        "psr-4": { "Thekwasti\\WikiBundle\\": "" }
     },
     "require": {
         "php": ">=5.3.3",
